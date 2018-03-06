@@ -22,7 +22,7 @@ public class Calculator
 	private Boolean justClickedEQ = false;
 	private Boolean justClickedRP = false;
 	private Boolean isNEG = false;
-	String[] operators = {"-", "+", "/", "*", "^"};
+	private String[] operators = {"-", "+", "/", "*", "^"};
 	
 	/* singleton pattern */
 	public static Calculator getInstance()
