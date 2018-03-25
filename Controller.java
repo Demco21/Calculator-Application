@@ -652,6 +652,7 @@ public class Controller
 		}
 	}
 	
+	/* UNUSED CODE */
 	/* Converts a string to a double */
 	@SuppressWarnings("unused")
 	private double stringToDouble(String operand)
